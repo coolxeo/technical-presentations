@@ -1,6 +1,6 @@
-javascript-code-conventions
+Javascript Code Conventions
 ===========================
-Best practices y code conventions
+Javascript Code Conventions and Best Practices
 
 ## References
 * https://github.com/airbnb/javascript
