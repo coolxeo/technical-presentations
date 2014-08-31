@@ -1,13 +1,23 @@
-javascript-code-conventions
-===========================
-Best practices y code conventions
+## Client Side Generated Components
+Client Side Generated Components vs Server Side Generated Components
 
-## References
-* (https://github.com/airbnb/javascript)[https://github.com/airbnb/javascript]
-* (http://sideeffect.kr/popularconvention)[http://sideeffect.kr/popularconvention]
-* (https://github.com/rwaldron/idiomatic.js)[https://github.com/rwaldron/idiomatic.js]
-* (http://javascript.crockford.com/code.html)[http://javascript.crockford.com/code.html]
-* (http://contribute.jquery.org/style-guide/js/)[http://contribute.jquery.org/style-guide/js/]
+### References
+* https://prerender.io
 
-## Slides.com Presentation
-(http://slides.com/danielgarciaacosta/javascriptcode-conventions)[http://slides.com/danielgarciaacosta/javascriptcode-conventions]
+### Slides.com Presentation
+http://slides.com/danielgarciaacosta/client-side-generated-components
+
+
+## Javascript Code Conventions
+
+Javascript Code Conventions and Best Practices
+
+### References
+* https://github.com/airbnb/javascript
+* http://sideeffect.kr/popularconvention
+* https://github.com/rwaldron/idiomatic.js
+* http://javascript.crockford.com/code.html
+* http://contribute.jquery.org/style-guide/js/
+
+### Slides.com Presentation
+http://slides.com/danielgarciaacosta/javascriptcode-conventions
